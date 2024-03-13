@@ -9,7 +9,6 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.7
 	github.com/Azure/go-autorest/autorest/to v0.4.0 // indirect
 	github.com/Azure/go-autorest/autorest/validation v0.3.1 // indirect
-	github.com/BurntSushi/toml v0.3.1 // indirect
 	github.com/ThalesIgnite/crypto11 v1.2.1
 	github.com/beorn7/perks v0.0.0-20160804104726-4c0e84591b9a // indirect
 	github.com/cloudflare/backoff v0.0.0-20161212185259-647f3cdfc87a
@@ -18,7 +17,7 @@ require (
 	github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd // indirect
 	github.com/fsnotify/fsnotify v1.4.7 // indirect
 	github.com/google/certificate-transparency-go v1.0.10-0.20180222191210-5ab67e519c93 // indirect
-	github.com/google/go-cmp v0.5.5 // indirect
+	github.com/googleapis/gax-go/v2 v2.0.5
 	github.com/hashicorp/hcl v0.0.0-20180404174102-ef8a98b0bbce // indirect
 	github.com/joshlf/testutil v0.0.0-20170608050642-b5d8aa79d93d
 	github.com/lziest/ttlcache v0.0.0-20160918175801-3c85255853f2
@@ -44,7 +43,7 @@ require (
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
 	golang.org/x/lint v0.0.0-20201208152925-83fdc39ff7b5
 	google.golang.org/genproto v0.0.0-20210309190941-1aeedc14537d
-	google.golang.org/protobuf v1.25.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/square/go-jose.v2 v2.5.1
 	gopkg.in/yaml.v2 v2.2.2
 )
